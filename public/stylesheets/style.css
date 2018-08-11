@@ -1,0 +1,8 @@
+.thumbnail{
+
+    border:1px solid black;
+}
+
+.thumbnail img{
+    max-height:150px;
+}
